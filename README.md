@@ -22,5 +22,3 @@ $ python jarvisbot.py
 ___
 
 Version 2.0
-
-Developer: Joálisson Andrade
